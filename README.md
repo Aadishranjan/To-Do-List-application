@@ -2,7 +2,7 @@
 
 This is a simple and elegant To-Do List application built with HTML, CSS, and JavaScript. It allows users to add, mark as done, and delete tasks. The app provides a clean UI to track tasks with an option to check them off when completed and remove them if no longer needed.
 
-![To-Do List Application](./screenshot.png)
+![To-Do List Application](./screenshot.jpg)
 
 ## Features
 
